@@ -10,7 +10,7 @@ WebtoonPromptGallery was developed to enhance convenience when creating prompts 
 `ComfyUI/custom_nodes/`
 2. Clone this repository:
 ```bash
-git clone https://github.com/My_account/comfyui-webtoon_promptGallery.git
+git clone https://github.com/ryukwoon/comfyui-webtoon_promptGallery.git
 ```
 
 ## Directory Structure
