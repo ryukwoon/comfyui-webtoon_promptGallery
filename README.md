@@ -5,6 +5,8 @@ A powerful, native-feeling prompt builder and accumulator extension for ComfyUI.
 ▒▒▒▒▒ **Necessity and Features of WebtoonPromptGallery Nodes** ▒▒▒▒▒
 WebtoonPromptGallery was developed to enhance convenience when creating prompts for **SDXL (Illustrious)** models. It allows users to build prompts for each category (especially Danbooru tags) as text files, providing thumbnails that automatically load the corresponding prompts into the input field when clicked.
 
+<img width="1841" height="951" alt="Cap 2026-06-17 00-29-22" src="https://github.com/user-attachments/assets/f8ee83d8-2ddb-4790-b7c4-c8d6585ee87a" />
+
 ## Installation
 1. Navigate to your ComfyUI custom nodes directory: 
 `ComfyUI/custom_nodes/`
@@ -47,6 +49,9 @@ Adjust the thumbnail size freely from 80px to 300px using the slider at the bott
 
 ## Prompt Preview
 Hover your mouse cursor over a thumbnail to preview the associated prompt text.
+
+<img width="1842" height="950" alt="Cap 2026-06-16 08-33-43" src="https://github.com/user-attachments/assets/5c5e5967-23b1-4617-91d9-bb32fb812ff3" />
+<img width="1843" height="952" alt="Cap 2026-06-16 08-33-14" src="https://github.com/user-attachments/assets/e8009032-87cc-4795-a055-4fed88f781f0" />
 
 ## Negative Prompt Loading
 To load negative prompts, simply click the negative text box, then click the desired thumbnails. (If a prompt is added by mistake, it can be manually removed from the text box.)
