@@ -1,0 +1,2 @@
+night_sky, cumulus clouds, volumetric clouds
+fluffy clouds, puffy clouds, sea

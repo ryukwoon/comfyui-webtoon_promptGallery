@@ -1,0 +1,266 @@
+[
+  {
+    "category": "RK_Background/Sky",
+    "name": "+뭉게구름",
+    "file": "RK_Background/Sky/+뭉게구름.txt",
+    "card": "RK_Background/Sky/+뭉게구름.preview.png",
+    "prompt": "cumulus clouds, volumetric clouds\nfluffy clouds, puffy clouds",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "+밤하늘",
+    "file": "RK_Background/Sky/+밤하늘.txt",
+    "card": "RK_Background/Sky/+밤하늘.preview.png",
+    "prompt": "night_sky",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "+별밤",
+    "file": "RK_Background/Sky/+별밤.txt",
+    "card": "RK_Background/Sky/+별밤.preview.png",
+    "prompt": "starry_sky",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "+붉은하늘",
+    "file": "RK_Background/Sky/+붉은하늘.txt",
+    "card": "RK_Background/Sky/+붉은하늘.preview.png",
+    "prompt": "bright Red sky",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "+석양",
+    "file": "RK_Background/Sky/+석양.txt",
+    "card": "RK_Background/Sky/+석양.preview.png",
+    "prompt": "sunset",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "+시네마_라이트",
+    "file": "RK_Background/Sky/+시네마_라이트.txt",
+    "card": "RK_Background/Sky/+시네마_라이트.preview.png",
+    "prompt": "cinematic lighting",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "+푸른하늘",
+    "file": "RK_Background/Sky/+푸른하늘.txt",
+    "card": "RK_Background/Sky/+푸른하늘.preview.png",
+    "prompt": "bright blue sky",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "구름셋_01",
+    "file": "RK_Background/Sky/구름셋_01.txt",
+    "card": "RK_Background/Sky/구름셋_01.preview.png",
+    "prompt": "cumulonimbus_incus, cumulonimbus_capillatus, cumulonimbus_calvus, cumulonimbus",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "구름셋_석양운",
+    "file": "RK_Background/Sky/구름셋_석양운.txt",
+    "card": "RK_Background/Sky/구름셋_석양운.preview.png",
+    "prompt": "majestic cumulus clouds at sunset, golden hour, light rays peeking through clouds, orange and purple gradient sky, towering cloud formations, epic scale",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "구름셋_층층운",
+    "file": "RK_Background/Sky/구름셋_층층운.txt",
+    "card": "RK_Background/Sky/구름셋_층층운.preview.png",
+    "prompt": "stratocumulus_lacunosus, stratocumulus_lenticularis, stratocumulus_castellanus, stratocumulus_stratiformis, stratocumulus",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "들판",
+    "file": "RK_Background/Sky/들판.txt",
+    "card": "RK_Background/Sky/들판.preview.png",
+    "prompt": "scenery, grass, day, blue sky, field,",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "맑은날_뭉게구름",
+    "file": "RK_Background/Sky/맑은날_뭉게구름.txt",
+    "card": "RK_Background/Sky/맑은날_뭉게구름.preview.png",
+    "prompt": "huge white cumulus clouds, fluffy and puffy texture, bright blue sky, sunny day, cinematic lighting, volumetric clouds",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "밤바다의하늘",
+    "file": "RK_Background/Sky/밤바다의하늘.txt",
+    "card": "RK_Background/Sky/밤바다의하늘.preview.png",
+    "prompt": "night_sky, cumulus clouds, volumetric clouds\nfluffy clouds, puffy clouds, sea",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "비행운",
+    "file": "RK_Background/Sky/비행운.txt",
+    "card": "RK_Background/Sky/비행운.preview.png",
+    "prompt": "cloud, outdoors, sky, no humans, day, blue sky, contrail, cloudy sky, cumulonimbus cloud,",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_Background/Sky",
+    "name": "인간없음",
+    "file": "RK_Background/Sky/인간없음.txt",
+    "card": "RK_Background/Sky/인간없음.preview.png",
+    "prompt": "no humans",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "Flat 2D",
+    "file": "RK_스타일/Flat 2D.txt",
+    "card": "RK_스타일/Flat 2D.preview.png",
+    "prompt": "simple flat color, 2-dimensional, (Flat 2D Art Style:1.2)",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "WebToon_XL",
+    "file": "RK_스타일/WebToon_XL.txt",
+    "card": "RK_스타일/WebToon_XL.preview.png",
+    "prompt": "score_9, score_8_up, score_7_up, rating_safe, webtoon style, (line art:0.6), (vector graphics:0.6), masterpiece, newest,",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "bishoujo",
+    "file": "RK_스타일/bishoujo.txt",
+    "card": "RK_스타일/bishoujo.preview.png",
+    "prompt": "bishoujo",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "cute",
+    "file": "RK_스타일/cute.txt",
+    "card": "RK_스타일/cute.preview.png",
+    "prompt": "Adorable Kawaii, pretty, cute",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "photo 1920",
+    "file": "RK_스타일/photo 1920.txt",
+    "card": "RK_스타일/photo 1920.preview.png",
+    "prompt": "daguerreotype photo, 1920s photography, historical photo, aged photo, damaged photo",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "드루나스타일",
+    "file": "RK_스타일/드루나스타일.txt",
+    "card": "RK_스타일/드루나스타일.preview.png",
+    "prompt": "Paolo Serpieri style, Druuna, (intricate line work, cross hatching texture:1.4), muted colors, chiaroscuro, (line art:0.5),webtoon",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "라인아트",
+    "file": "RK_스타일/라인아트.txt",
+    "card": "RK_스타일/라인아트.preview.png",
+    "prompt": "line art drawing, professional, sleek, modern, minimalist, graphic, (line art:0.5), vector graphics",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "라인아트_컬러",
+    "file": "RK_스타일/라인아트_컬러.txt",
+    "card": "RK_스타일/라인아트_컬러.preview.png",
+    "prompt": "line art drawing, professional, sleek, modern, minimalist, graphic, (line art:0.3), vector graphics, (colorful:1.2)",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "마무리_스타일",
+    "file": "RK_스타일/마무리_스타일.txt",
+    "card": "RK_스타일/마무리_스타일.preview.png",
+    "prompt": "masterpiece, newest",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "만화_라인아트",
+    "file": "RK_스타일/만화_라인아트.txt",
+    "card": "RK_스타일/만화_라인아트.preview.png",
+    "prompt": "comic,line art",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "성인용웹툰스타일",
+    "file": "RK_스타일/성인용웹툰스타일.txt",
+    "card": "RK_스타일/성인용웹툰스타일.preview.png",
+    "prompt": "korean webtoon style,(line art:0.5),webtoon, NSFW, score_9, score_8_up, score_7_up, masterpiece, newest",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "수채화",
+    "file": "RK_스타일/수채화.txt",
+    "card": "RK_스타일/수채화.preview.png",
+    "prompt": "visible paper texture, colorwash, (watercolor, Watercolor style painting:1.2)",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "웹툰Tag",
+    "file": "RK_스타일/웹툰Tag.txt",
+    "card": "RK_스타일/웹툰Tag.preview.png",
+    "prompt": "(line art:0.5), (vector graphics:0.5), masterpiece, newest",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "웹툰스타일",
+    "file": "RK_스타일/웹툰스타일.txt",
+    "card": "RK_스타일/웹툰스타일.preview.png",
+    "prompt": "webtoon style",
+    "negative_prompt": ""
+  },
+  {
+    "category": "RK_스타일",
+    "name": "지브리0.3",
+    "file": "RK_스타일/지브리0.3.txt",
+    "card": "RK_스타일/지브리0.3.preview.png",
+    "prompt": "(Studio ghibli style:1.2), hand-drawn watercolor style, webtoon style, Simplistic Features",
+    "negative_prompt": ""
+  },
+  {
+    "category": "부정프롬프트",
+    "name": "No프린팅_네거티브",
+    "file": "부정프롬프트/No프린팅_네거티브.txt",
+    "card": "부정프롬프트/No프린팅_네거티브.preview.png",
+    "prompt": "graphic print, picture on shirt, logo, text, writing, letters,",
+    "negative_prompt": ""
+  },
+  {
+    "category": "부정프롬프트",
+    "name": "gothic",
+    "file": "부정프롬프트/gothic.txt",
+    "card": "부정프롬프트/gothic.preview.png",
+    "prompt": "ugly, deformed, noisy, blurry, low contrast, gothic, dark, moody, monochromatic",
+    "negative_prompt": ""
+  },
+  {
+    "category": "부정프롬프트",
+    "name": "no_text",
+    "file": "부정프롬프트/no_text.txt",
+    "card": "부정프롬프트/no_text.preview.png",
+    "prompt": "(graphic print, picture on shirt, logo, text, writing, letters,:1.2)",
+    "negative_prompt": ""
+  }
+]
